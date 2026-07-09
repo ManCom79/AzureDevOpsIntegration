@@ -10,7 +10,7 @@ Modernize customer self-service portal to improve user experience and reduce sup
 - **Tech Lead**: Name (email@company.com)
 - **UX Designer**: Name (email@company.com)
 
-## Success Metrics
+## Success Metrics :rocket:
 
 - Page load time < 2 seconds
 - User satisfaction score > 4.2/5
