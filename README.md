@@ -13,7 +13,7 @@ Modernize customer self-service portal to improve user experience and reduce sup
 ## Success Metrics :rocket:
 
 - Page load time < 2 seconds
-- User satisfaction score > 4.2/5
+- User satisfaction score > 4.3/5
 - Support ticket reduction of 30%
 
 ## Workflow Standards
